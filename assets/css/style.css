@@ -498,6 +498,8 @@ section {
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
   margin-bottom: 30px;
+ 
+  
 }
 
 .portfolio #portfolio-flters {
@@ -536,6 +538,7 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
+  margin-bottom: 30px;
 }
 
 .portfolio .portfolio-wrap::before {
